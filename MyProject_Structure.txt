@@ -1,0 +1,33 @@
+PROJECT Project Tree Generated on 2025-09-01 14:47:43
+Root: 
+(c) 2024 Hans Hendrickx - MIT License
+Professional Folder Tree Generator
+
+Project Structure Legend:
+📂 - Key Project Directory
+📁 - Regular Directory
+🐍 - Python Source File
+📓 - Jupyter Notebook
+📝 - Markdown File
+📊 - Excel or CSV File
+📄 - PDF File
+📃 - Word Document
+⚙️ - Batch/Script File
+🔧 - JSON or Config File
+🖼️ - Image File
+🎵 - Audio File
+🎬 - Video File
+--------------------------------------------------------------------------------
+
+📂 Folder_Tree_Claude/
+├─ 🐍 Folder_Tree.py
+├─ ⚙️ Folder_Tree_Claude.bat
+├─ 🐍 Folder_Tree_Claude.py
+├─ 📄 LICENSE
+├─ 📄 project_structure.txt
+└─ ... (5 more files)
+
+--------------------------------------------------------------------------------
+Total Folders: 1
+Total Files: 5
+Total Size: 72.2 KB
